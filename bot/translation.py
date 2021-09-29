@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>നീ ഏതാ മോനുസേ എന്നെ MOVIE ROCKZ ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ പറ്റു 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ചുമ്മാ നോക്കി സമയം കളയാതെ ഗ്രൂപ്പിൽ വിട്ടോ 😂
 
 For More Details Click Help Button Below..
 @MovieRockz2
