@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption =caption,
+                caption = f"{file_name}  /n @Movie_Rockz2",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    ' 🔰𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥🔰 ', url="https://t.me/Movie_Rockz2"
+                                    ' 🔰 𝙅𝙤𝙞𝙣 𝙤𝙪𝙧 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 🔰 ', url="https://t.me/Movie_Rockz2"
                                 )
                         ]
                     ]
