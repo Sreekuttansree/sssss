@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫', url='https://t.me/@movierockzsree'),
+        InlineKeyboardButton('𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫', url='933583452'),
         InlineKeyboardButton('𝐆𝐫𝐨𝐮𝐩 🧾', url ='https://t.me/MR_ChatGrp')
     ],[
         InlineKeyboardButton('📎𝐎𝐔𝐑 𝐂𝐇𝐍𝐍𝐄𝐋𝐒 𝐋𝐈𝐍𝐊𝐒📎', url='https://t.me/Movie_Rockz2')
